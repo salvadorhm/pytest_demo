@@ -2,7 +2,7 @@ class LargestNumber:
     def __init__(self) -> None:
         pass
 
-    def largestNumber(self, num1: int, num2: int) -> int:
+    def largestNumber(self, num1: int, num2: int) -> int | None:
         """Compare 2 integers, return largest number
         if they are the same, None returns
 
