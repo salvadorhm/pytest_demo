@@ -37,3 +37,9 @@ python3 -m coverage report
 |6.|-1|-1|None|
 |7.|-1|-2|-1|
 |8.|-2|-1|-1|
+
+## Formated files wiht flake8
+
+```bash
+flake8
+```
